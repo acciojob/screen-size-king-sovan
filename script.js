@@ -1,6 +1,6 @@
 //your JS code here. If required.
 function updateWindowSize() {
-	const width = window.innetWidth;
+	const width = window.innerWidth;
 	const height = window.innerHeight;
 	document.getElementById('windowSize').textContent = `Width: ${width} and Height: ${height}`;
 }
