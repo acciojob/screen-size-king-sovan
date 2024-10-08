@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+#sizeInfo {
+	margin: 20px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	width: fit-content;
+}
